@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Galina
 
-<!--
-**galinaabdurashitova/galinaabdurashitova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer based in London 🇬🇧 with experience in building SwiftUI apps using MVVM architecture.  
+Previously worked as a systems analyst (5+ years) before transitioning to mobile development after completing an MSc in Software Engineering in the UK.
 
-Here are some ideas to get you started:
+### 🧰 Main Tech Stack
+- **Languages & UI:** Swift, SwiftUI, Combine, async/await
+- **Architecture:** MVVM, VIPER, Modular structure, Clean Architecture
+- **Persistence & Networking:** Core Data, REST APIs
+- **Tools:** Xcode, XCTest, Git, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+- 📍 [London Explorer](https://github.com/galinaabdurashitova/london_explorer_app)  
+City guide app that allows users to build, save, and complete custom walking routes in London, unlock collectables, earn awards, and interact with friends through a dynamic activity feed.  
+Final MSc project. Built with **SwiftUI**, **MVVM**, **async/await**, and Spring Boot backend (Java).
+
+- 🗒️ [ToDoList](https://github.com/galinaabdurashitova/to_do_list_app)  
+Basic task manager application with **Core Data** persistence and **VIPER** architecture.
+
+- 🧠 [Design Patterns](https://github.com/galinaabdurashitova/design_patterns)  
+Demo app showcasing key **design patterns** with a focus on **clean architecture**.
