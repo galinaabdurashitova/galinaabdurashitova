@@ -16,7 +16,7 @@ City guide app that allows users to build, save, and complete custom walking rou
 Final MSc project. Built with **SwiftUI**, **MVVM**, **async/await**, and Spring Boot backend (Java).
 
 - 🗒️ [ToDoList](https://github.com/galinaabdurashitova/to_do_list_app)  
-Basic task manager application with **Core Data** persistence and **VIPER** architecture.
+Basic task manager application with **Core Data** persistence, **VIPER** architecture and **XCTest** unit tests.
 
 - 🧠 [Design Patterns](https://github.com/galinaabdurashitova/design_patterns)  
 Demo app showcasing key **design patterns** with a focus on **clean architecture**.
