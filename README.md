@@ -3,6 +3,8 @@
 iOS Developer based in London 🇬🇧 with experience in building SwiftUI apps using MVVM architecture.  
 Previously worked as a systems analyst (5+ years) before transitioning to mobile development after completing an MSc in Software Engineering in the UK.
 
+📄 [View My Latest CV (June 2025, PDF)](https://github.com/galinaabdurashitova/galinaabdurashitova/blob/main/CV_Galina_Abdurashitova_6_2025.pdf)
+
 ### 🧰 Main Tech Stack
 - **Languages & UI:** Swift, SwiftUI, Combine, async/await
 - **Architecture:** MVVM, VIPER, Modular structure, Clean Architecture
