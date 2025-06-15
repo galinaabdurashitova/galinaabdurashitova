@@ -4,7 +4,7 @@ iOS Developer based in London 🇬🇧 with experience in building SwiftUI apps 
 Previously worked as a systems analyst (5+ years) before transitioning to mobile development after completing an MSc in Software Engineering in the UK.
 
 ### 🧰 Main Tech Stack
-- **Languages & UI:** Swift, SwiftUI, Combine, async/await
+- **Swift & iOS Frameworks:** Swift, SwiftUI, Combine, async/await
 - **Architecture:** MVVM, VIPER, Modular structure, Clean Architecture
 - **Persistence & Networking:** Core Data, REST APIs
 - **Tools:** Xcode, XCTest, Git, Figma
