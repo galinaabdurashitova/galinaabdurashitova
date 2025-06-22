@@ -22,4 +22,4 @@ Demo app showcasing key **design patterns** with a focus on **clean architecture
 Basic task manager application with **Core Data** persistence, **VIPER** architecture and **XCTest** unit tests.
 
 - ✅ [Habit Tracker](https://github.com/galinaabdurashitova/habit_tracker)  
-Simple habit-tracking app built with **UIKit**, **Core Data**, and **MVVM architecture**. Features manual layout without storyboards, custom UI components, and persistent daily completions.
+Simple habit-tracking app built with **UIKit**, **Core Data**, **MVVM architecture** and **XCTest** unit tests. Features manual layout without storyboards, custom UI components, and persistent daily completions.
