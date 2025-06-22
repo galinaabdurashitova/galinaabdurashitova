@@ -1,13 +1,12 @@
 ## 👋 Hi, I’m Galina
 
-iOS Developer based in London 🇬🇧 with experience in building SwiftUI apps using MVVM architecture.  
-Previously worked as a systems analyst (5+ years) before transitioning to mobile development after completing an MSc in Software Engineering in the UK.
+I'm an iOS Developer based in London🇬🇧 with experience building iOS apps using SwiftUI and MVVM architecture.
+Previously a systems analyst (5+ years) before transitioning to mobile development after earning an MSc in Software Engineering in the UK.
 
 ### 🧰 Main Tech Stack
-- **Swift & iOS Frameworks:** Swift, SwiftUI, Combine, async/await
+- **iOS Development:** Swift, SwiftUI, Combine, Async/Await, Core Data, XCTest, REST APIs
 - **Architecture:** MVVM, VIPER, Modular structure, Clean Architecture
-- **Persistence & Networking:** Core Data, REST APIs
-- **Tools:** Xcode, XCTest, Git, Figma
+- **Tools:** Xcode, Git, Jira, Figma
 
 ### 🚀 Projects
 
@@ -22,4 +21,4 @@ Demo app showcasing key **design patterns** with a focus on **clean architecture
 Basic task manager application with **Core Data** persistence, **VIPER** architecture and **XCTest** unit tests.
 
 - ✅ [Habit Tracker](https://github.com/galinaabdurashitova/habit_tracker)  
-Simple habit-tracking app built with **UIKit**, **Core Data**, **MVVM architecture** and **XCTest** unit tests. Features manual layout without storyboards, custom UI components, and persistent daily completions.
+Simple habit-tracking app built with **UIKit**, **Core Data**, **MVVM architecture**, **XCTest** unit tests and **GitHub Actions CI/CD**. Manual layout with fully programmatic UI (no storyboards).
