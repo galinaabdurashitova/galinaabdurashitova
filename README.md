@@ -15,10 +15,10 @@ City guide app that allows users to build, save, and complete custom walking rou
 Final MSc project. Built with **SwiftUI**, **MVVM**, **async/await**, and Spring Boot backend (Java).
 
 - 🧠 [Design Patterns](https://github.com/galinaabdurashitova/design_patterns)  
-Demo app showcasing key **design patterns** with a focus on **clean architecture**.
+Demo app showcasing classic **design patterns** with a focus on **clean architecture**. Includes **Core Data**, **unit**, **UI**, and **snapshot tests** with **CI/CD on GitHub Actions**.
 
 - 🗒️ [ToDoList](https://github.com/galinaabdurashitova/to_do_list_app)  
-Basic task manager application with **Core Data** persistence, **VIPER** architecture and **XCTest** unit tests.
+Task manager with **Core Data** persistence and **VIPER architecture**, featuring **unit tests** written with **XCTest**.
 
 - ✅ [Habit Tracker](https://github.com/galinaabdurashitova/habit_tracker)  
-Simple habit-tracking app built with **UIKit**, **Core Data**, **MVVM architecture**, **XCTest** unit tests and **GitHub Actions CI/CD**. Manual layout with fully programmatic UI (no storyboards).
+Minimalist habit-tracking app built with **UIKit**, **MVVM**, **Core Data**, and **programmatic layout** (no storyboards). Includes **unit tests** and **CI/CD with GitHub Actions**.
